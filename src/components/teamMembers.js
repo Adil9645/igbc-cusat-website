@@ -12,9 +12,9 @@ const members = [
         title: "President"
     },
     {
-        name: "Shamsiyah",
+        name: "Shamsiyah N A",
         photo: "images/EXECOM/Shamsiyah.jpg",
-        alt: "Shamsiyah",
+        alt: "Shamsiyah N A",
         title: "Vice President"
     },
     {
@@ -66,40 +66,52 @@ const members = [
         title: "Outreach Head"
     },
     {
-        name: "Anjana S",
-        photo: "images/members/anjana.jpeg",
-        alt: "Anjana S",
-        title: "Editorial"
+        name: "Aiswarya S",
+        photo: "images/EXECOM/Aiswarya S.jpg",
+        alt: "Aiswarya S",
+        title: "Media & production Head"
     },
     {
-        name: "Nevin Joji",
-        photo: "images/members/nevin.jpeg",
-        alt: "Nevin Joji",
-        title: "Outreach Head"
+        name: "Neeraj Krishna",
+        photo: "images/EXECOM/Neeraj Krishna.jpg",
+        alt: "Neeraj Krishna",
+        title: "Media & production Head"
     },
     {
-        name: "Sameera T",
-        photo: "images/members/sameera.jpeg",
-        alt: "Sameera T",
-        title: "Outreach Head"
+        name: "Vivek P Nair",
+        photo: "images/EXECOM/Vivek P Nair.jpg",
+        alt: "Vivek P Nair",
+        title: "Sponsorship Head"
     },
     {
-        name: "Devanandana B",
-        photo: "images/members/devanandana.jpeg",
-        alt: "Devanandana B",
-        title: "Executive Member"
+        name: "Aditya Das",
+        photo: "images/EXECOM/Aditya Das.jpg",
+        alt: "Aditya Das",
+        title: "Sponsorship Head"
     },
     {
-        name: "Sreelakshmi J",
-        photo: "images/members/sreelakshmi.jpeg",
-        alt: "Sreelakshmi J",
-        title: "Executive Member"
+        name: "Kumari Bhavya",
+        photo: "images/EXECOM/Kumari Bhavya.jpg",
+        alt: "Kumari Bhavya",
+        title: "Content Head"
     },
     {
-        name: "Abhina Sajeesh",
-        photo: "images/members/abhina.jpeg",
-        alt: "Sreelakshmi J",
-        title: "Abhina Sajeesh"
+        name: "Najwa Shameem",
+        photo: "images/EXECOM/Najwa Shameem.jpg",
+        alt: "Najwa Shameem",
+        title: "Content Head"
+    },
+    {
+        name: "Marul Gupta",
+        photo: "images/EXECOM/Marul Gupta.jpg",
+        alt: "Najwa Shameem",
+        title: "Documentation Head"
+    },
+    {
+        name: "Meenakshy PP",
+        photo: "images/EXECOM/Meenakshy PP.jpg",
+        alt: "Meenakshy PP",
+        title: "Documentation Head"
     },
 ]
 
