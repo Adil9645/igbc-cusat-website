@@ -1,6 +1,111 @@
 const members = [
     {
         name: "Dr. Roy M Thomas",
+        photo: "images/EXECOM/Dr Roy M Thomas.jpg",
+        alt: "Dr. Roy M Thomas",
+        title: "Staff Coordinator"
+    },
+    {
+        name: "Nevin Joji",
+        photo: "images/EXECOM/Nevin Joji.jpg",
+        alt: "Nevin Joji",
+        title: "President"
+    },
+    {
+        name: "Shamsiyah",
+        photo: "images/EXECOM/Shamsiyah.jpg",
+        alt: "Shamsiyah",
+        title: "Vice President"
+    },
+    {
+        name: "Basil K U",
+        photo: "images/EXECOM/Basil K U.jpg",
+        alt: "Basil K U",
+        title: "Secretary"
+    },
+    {
+        name: "Yadav Krishna",
+        photo: "images/EXECOM/Yadav Krishna.jpg",
+        alt: "Yadav Krishna",
+        title: "Joint Secretary"
+    },
+    {
+        name: "Nazrin Khan p",
+        photo: "images/members/nazrin.jpeg",
+        alt: "Nazrin Khan",
+        title: "Treasurer"
+    },
+    {
+        name: "Muhammed  Shamil P",
+        photo: "images/members/shamil.jpeg",
+        alt: "Muhammed  Shamil P",
+        title: "Event Coordinator"
+    },
+    {
+        name: "Aswani Krishna",
+        photo: "images/members/aswani.jpeg",
+        alt: "Aswani Krishna",
+        title: "Event Coordinator"
+    },
+    {
+        name: "Yadav Krishna",
+        photo: "images/members/yadav.jpeg",
+        alt: "Yadav Krishna",
+        title: "Media and Design"
+    },
+    {
+        name: "Basil K U",
+        photo: "images/members/basil.jpeg",
+        alt: "Basil K U",
+        title: "Media and Design"
+    },
+    {
+        name: "Shamsiyah N A",
+        photo: "images/members/shamsiya.jpeg",
+        alt: "Shamsiyah N A",
+        title: "Editorial"
+    },
+    {
+        name: "Anjana S",
+        photo: "images/members/anjana.jpeg",
+        alt: "Anjana S",
+        title: "Editorial"
+    },
+    {
+        name: "Nevin Joji",
+        photo: "images/members/nevin.jpeg",
+        alt: "Nevin Joji",
+        title: "Outreach Head"
+    },
+    {
+        name: "Sameera T",
+        photo: "images/members/sameera.jpeg",
+        alt: "Sameera T",
+        title: "Outreach Head"
+    },
+    {
+        name: "Devanandana B",
+        photo: "images/members/devanandana.jpeg",
+        alt: "Devanandana B",
+        title: "Executive Member"
+    },
+    {
+        name: "Sreelakshmi J",
+        photo: "images/members/sreelakshmi.jpeg",
+        alt: "Sreelakshmi J",
+        title: "Executive Member"
+    },
+    {
+        name: "Abhina Sajeesh",
+        photo: "images/members/abhina.jpeg",
+        alt: "Sreelakshmi J",
+        title: "Abhina Sajeesh"
+    },
+]
+
+/*const member = [
+    {
+        name: "Dr. Roy M Thomas",
         photo: "images/members/roy.jpeg",
         alt: "Dr. Roy M Thomas",
         title: "Staff Coordinator"
@@ -101,7 +206,7 @@ const members = [
         alt: "Sreelakshmi J",
         title: "Abhina Sajeesh"
     },
-]
+]*/
 const former_members = [
     {
         name: "Anzila A N",
