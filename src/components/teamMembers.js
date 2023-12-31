@@ -30,40 +30,40 @@ const members = [
         title: "Joint Secretary"
     },
     {
-        name: "Nazrin Khan p",
-        photo: "images/members/nazrin.jpeg",
-        alt: "Nazrin Khan",
+        name: "Nazrin Khan P",
+        photo: "images/EXECOM/Nazrin Khan.jpg",
+        alt: "Nazrin Khan p",
+        title: "Team Manager"
+    },
+    {
+        name: "Akshaya Shibu",
+        photo: "images/EXECOM/Akshaya Shibu.jpg",
+        alt: "Muhammed  Shamil P",
         title: "Treasurer"
     },
     {
-        name: "Muhammed  Shamil P",
-        photo: "images/members/shamil.jpeg",
-        alt: "Muhammed  Shamil P",
-        title: "Event Coordinator"
+        name: "Navya Thomas",
+        photo: "images/EXECOM/Navya Thomas.jpg",
+        alt: "Navya Thomas",
+        title: "Event Head"
     },
     {
-        name: "Aswani Krishna",
-        photo: "images/members/aswani.jpeg",
-        alt: "Aswani Krishna",
-        title: "Event Coordinator"
+        name: "Riya Lekshmi",
+        photo: "images/EXECOM/Riya Lekshmi.jpg",
+        alt: "Riya Lekshmi",
+        title: "Event Head"
     },
     {
-        name: "Yadav Krishna",
-        photo: "images/members/yadav.jpeg",
-        alt: "Yadav Krishna",
-        title: "Media and Design"
+        name: "Stephy T Sunil",
+        photo: "images/EXECOM/Stephy T Sunil.jpg",
+        alt: "Stephy T Sunil",
+        title: "Outreach Head"
     },
     {
-        name: "Basil K U",
-        photo: "images/members/basil.jpeg",
-        alt: "Basil K U",
-        title: "Media and Design"
-    },
-    {
-        name: "Shamsiyah N A",
-        photo: "images/members/shamsiya.jpeg",
-        alt: "Shamsiyah N A",
-        title: "Editorial"
+        name: "Riya Ummer",
+        photo: "images/EXECOM/Riya Ummer.jpg",
+        alt: "Riya Ummer",
+        title: "Outreach Head"
     },
     {
         name: "Anjana S",
