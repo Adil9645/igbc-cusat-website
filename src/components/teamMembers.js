@@ -69,13 +69,13 @@ const members = [
         name: "Aiswarya S",
         photo: "images/EXECOM/Aiswarya S.jpg",
         alt: "Aiswarya S",
-        title: "Media & production Head"
+        title: "Media & Production Head"
     },
     {
         name: "Neeraj Krishna",
         photo: "images/EXECOM/Neeraj Krishna.jpg",
         alt: "Neeraj Krishna",
-        title: "Media & production Head"
+        title: "Media & Production Head"
     },
     {
         name: "Vivek P Nair",
